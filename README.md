@@ -1,3 +1,2 @@
 # BOS
-Basic Operating System\
-Ben's Operating System\
+Basic Operating System
